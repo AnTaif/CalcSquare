@@ -96,7 +96,7 @@ if __name__ == "__main__":
     square, image = mainCalcSquare(img)
 
     print(square)
-    cv2.imwrite("output-Image.jpg", image)
+    cv2.imwrite("output-image.jpg", image)
     plt.imshow(image)
     plt.show()
     
