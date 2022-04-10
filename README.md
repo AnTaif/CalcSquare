@@ -1,5 +1,6 @@
 # CalcSquare
 A script to calculate the area of an object of any shape by the area of a reference object (an object whose area we already know).
+----------------------------------------------------------------------------------------------------------------------------------
 
 The first thing to do is to make sure that the reference object is to the left of all the others.
 The mainCalcSquare function inputs an image (it is necessary that the objects to be calculated stand out from the background). 
